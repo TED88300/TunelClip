@@ -1,1 +1,7 @@
-cccc
+{
+	{
+	  "appclips": {
+    		"apps": ["TEAMID.com.exemple.HelloWorldApp.Clip"]
+	  	}
+	}
+}
